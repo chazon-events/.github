@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="chazon-logo.png" alt="Chazon Logo" width="120" />
+  <img src="/chazon-logo.png" alt="Chazon Logo" width="120" />
 
   <h1>Welcome to Chazon 👋</h1>
   
