@@ -16,7 +16,7 @@
 
 We are building a secure, scalable platform to connect students directly with event organizers and communities. Our core architecture is split across the following repositories:
 
-* **[`chazon-frontend`](#)**: The Progressive Web App (PWA) built with **React / Next.js**. This handles the student discovery feed, QR code scanning, and organizer dashboards. *(State management via Zustand)*.
+* **[`chazon-frontend`](https://github.com/chazon-events/chazon-events-frontend)**: The Progressive Web App (PWA) built with **React / Next.js**. This handles the student discovery feed, QR code scanning, and organizer dashboards. *(State management via Zustand)*.
 * **[`chazon-backend`](#)**: The core API built with **Laravel**. This handles our PostgreSQL database, business logic, role-based access control, and secure authentication via Sanctum.
 
 ---
